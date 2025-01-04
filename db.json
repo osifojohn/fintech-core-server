@@ -137,5 +137,10 @@
       "createdAt": "2023-07-01T00:00:00Z",
       "updatedAt": "2024-01-01T00:00:00Z"
     }
-  ]
+  ],
+  "transactionStats": {
+    "totalIncome": 8000,
+    "totalExpenses": 2410,
+    "netBalance": 5590
+  }
 }
