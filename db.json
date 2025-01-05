@@ -212,9 +212,12 @@
       "updatedAt": "2024-01-01T00:00:00Z"
     }
   ],
-  "transactionStats": {
-    "totalIncome": 8000,
-    "totalExpenses": 2410,
-    "netBalance": 5590
-  }
+  "transactionStats": [
+    {
+      "id": "1",
+      "totalIncome": 8000,
+      "totalExpenses": 2410,
+      "netBalance": 5590
+    }
+  ]
 }
