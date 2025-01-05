@@ -1,7 +1,8 @@
 {
-  "users": [
+  "userAccountOverview": [
     {
       "id": "1",
+      "userId": "1",
       "name": "Osifo John",
       "email": "osifojohntec@gmail.com",
       "accountBalance": 25000.0,
