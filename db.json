@@ -14,6 +14,7 @@
   "transactions": [
     {
       "id": "1",
+      "userId": "1",
       "date": "2024-01-03T10:00:00Z",
       "amount": 5000,
       "type": "credit",
@@ -24,6 +25,7 @@
     },
     {
       "id": "2",
+      "userId": "1",
       "date": "2024-01-02T15:30:00Z",
       "amount": 80,
       "type": "debit",
@@ -34,6 +36,7 @@
     },
     {
       "id": "3",
+      "userId": "1",
       "date": "2024-01-01T12:00:00Z",
       "amount": 875.52,
       "type": "debit",
@@ -45,6 +48,7 @@
     },
     {
       "id": "4",
+      "userId": "1",
       "date": "2024-01-01T12:00:00Z",
       "amount": 650.25,
       "type": "debit",
@@ -59,6 +63,7 @@
     {
       "id": "1",
       "amount": 10000,
+      "userId": "1",
       "tenure": 12,
       "status": "active",
       "purpose": "Home renovation",
@@ -70,6 +75,7 @@
     },
     {
       "id": "2",
+      "userId": "1",
       "amount": 5000,
       "tenure": 6,
       "status": "completed",
@@ -82,6 +88,7 @@
     },
     {
       "id": "3",
+      "userId": "1",
       "amount": 8000,
       "tenure": 24,
       "status": "active",
@@ -94,6 +101,7 @@
     },
     {
       "id": "4",
+      "userId": "1",
       "amount": 3000,
       "tenure": 3,
       "status": "completed",
@@ -106,6 +114,7 @@
     },
     {
       "id": "5",
+      "userId": "1",
       "amount": 15000,
       "tenure": 36,
       "status": "active",
@@ -120,6 +129,7 @@
   "activeLoans": [
     {
       "id": "1",
+      "userId": "1",
       "loanId": "1",
       "amount": 10000,
       "outstandingAmount": 9250,
@@ -147,6 +157,7 @@
     },
     {
       "id": "2",
+      "userId": "1",
       "loanId": "3",
       "amount": 8000,
       "outstandingAmount": 7400,
@@ -174,6 +185,7 @@
     },
     {
       "id": "3",
+      "userId": "1",
       "loanId": "5",
       "amount": 15000,
       "outstandingAmount": 15000,
